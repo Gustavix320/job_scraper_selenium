@@ -84,12 +84,14 @@ job_scraper_selenium/
   "tags": ["Python", "Backend", "Developer"],
   "data_publicacao": "11-07-2025 / 14:43"
 }
-```json
+```
 
-# 👨‍💻 Author
-Gustavo Santos
-📍 Backend Developer | Python Web Scraper
-🔗 LinkedIn
-💻 GitHub
+## 👨‍💻 Author
+
+**Gustavo Santos**  
+📍 Backend Developer | Python Web Scraper  
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-santos-502364338/)  
+💻 [GitHub](https://github.com/Gustavix320)
+
 
 
