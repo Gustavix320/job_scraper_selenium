@@ -73,7 +73,9 @@ job_scraper_selenium/
 - jobs.json: structured job data
 - jobs.csv: tabular format (e.g., for Excel or analysis)
 
-# 📸 Example Output (JSON)
+## 📸 Example Output (JSON)
+
+```json
 {
   "titulo": "Backend Developer @ lobstr.io Python Scraping Celery",
   "empresa": "lobstr.io",
@@ -82,6 +84,7 @@ job_scraper_selenium/
   "tags": ["Python", "Backend", "Developer"],
   "data_publicacao": "11-07-2025 / 14:43"
 }
+
 
 # 👨‍💻 Author
 Gustavo Santos
