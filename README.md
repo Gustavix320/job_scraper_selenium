@@ -57,21 +57,29 @@ job_scraper_selenium/
 - cd job_scraper_selenium
 
 2. (Optional) Create and activate a virtual environment:
-- python -m venv venv
-  
-- Windows:
-- venv\Scripts\activate
-  
-- macOS/Linux:
-- source venv/bin/activate
+ ```json
+python -m venv venv
+  ```
 
+- Windows:
+ ```json
+venv\Scripts\activate
+  ```
+
+- macOS/Linux:
+```json
+source venv/bin/activate
+ ```
 
 3. Install dependencies:
+```json
 - pip install -r requirements.txt
-
+ ```
 
 4. Run the scraper:
+```json
 - python scraper.py
+ ```
 
 
 5. Output files:
