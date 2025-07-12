@@ -84,7 +84,7 @@ job_scraper_selenium/
   "tags": ["Python", "Backend", "Developer"],
   "data_publicacao": "11-07-2025 / 14:43"
 }
-
+```json
 
 # 👨‍💻 Author
 Gustavo Santos
