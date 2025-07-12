@@ -39,14 +39,14 @@ Automatically extract remote job listings from [RemoteOK](https://remoteok.com),
 
 
 ## 📁 Project Structure
-
+```json
 job_scraper_selenium/
 ├── scraper.py
 ├── requirements.txt
 ├── jobs.json
 ├── jobs.csv
 └── README.md
-
+```
 
 
 ## ▶️ How to Run
